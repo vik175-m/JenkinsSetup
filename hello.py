@@ -1,1 +1,1 @@
-print ("hello jenkins")
+print "hello jenkins version 1")
